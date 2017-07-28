@@ -7,6 +7,7 @@ build:
 test:
 	$(CARGO) test
 	./target/debug/true
+	! ./target/debug/false
 
 doc:
 	$(CARGO) doc
