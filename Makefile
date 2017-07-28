@@ -6,6 +6,7 @@ build:
 
 test:
 	$(CARGO) test
+	$(CARGO) build
 	./target/debug/true
 	! ./target/debug/false
 
