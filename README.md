@@ -1,5 +1,5 @@
 # ![rubigo-coreutils](logo.png)
-[![docs: published](https://img.shields.io/badge/docs-published-green.svg)](https://rubigo.github.io/true/rubigo_true) 
+[![docs: published](https://img.shields.io/badge/docs-published-green.svg)](https://rubigo.github.io/coreutils/doc/rubigo_true) 
 [![current tag](https://img.shields.io/github/tag/rubigo/true.svg)](CHANGELOG.md) 
 [![travis build status](https://travis-ci.org/rubigo/true.svg?branch=master)](https://travis-ci.org/rubigo/true)
 [![codecov](https://codecov.io/gh/rubigo/true/branch/master/graph/badge.svg)](https://codecov.io/gh/rubigo/true)
